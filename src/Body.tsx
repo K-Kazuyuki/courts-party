@@ -37,7 +37,7 @@ const Body = () => {
       >
         <div style={{ padding: "10px" }}>
           <PageCard
-            href="/start-game"
+            href="https://jarebon.courts.party"
             imgSrc="/images/books_002.png"
             alt="本しりとり"
             text="本しりとり"
