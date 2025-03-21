@@ -39,8 +39,8 @@ const Body = () => {
           <PageCard
             href="https://jarebon.courts.party"
             imgSrc="/images/books_002.png"
-            alt="本しりとり"
-            text="本しりとり"
+            alt="小説しりとり"
+            text="小説しりとり"
           />
         </div>
       </div>
