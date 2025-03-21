@@ -6,7 +6,7 @@ const Body = () => {
   return (
     <Container>
       <Typography variant="h5">
-        この Web サイトはテーブルトーク集団最高裁判所の Web ページです．
+        この Web サイトはテーブルトーク集団最高裁判所の公式 Web サイトです。
       </Typography>
     </Container>
   );
